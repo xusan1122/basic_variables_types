@@ -1,6 +1,7 @@
 /*
 
-Create a single variable of any value and give it a value with an arbitrary name
+Create a variable of type int  x  and assign 5.23 as it value.
+
 
 */
 

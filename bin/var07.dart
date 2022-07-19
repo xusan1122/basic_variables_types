@@ -1,7 +1,8 @@
 /*
 
-Create variables y and x with the data type float. Assign any value to it.
+Create variables y and x with the data type double. Assign any value to them.
 Print two of them.
+
 
 
 */

@@ -1,6 +1,8 @@
 /*
 
-Create a variable y with the data type float.
+Create a variable y with the data type double.
+
+
 
 */
 

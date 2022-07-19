@@ -1,6 +1,7 @@
 /*
 
-Create a variable x and print the variable
+Create a variable of type int and give it 175 as value
+
 
 */
 

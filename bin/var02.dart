@@ -1,6 +1,7 @@
 /*
 
-Create a variable x and assign your date of birth as the string
+Create a variable of type int  and assign your year of birth
+
 
 
 */

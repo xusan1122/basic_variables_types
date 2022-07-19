@@ -1,7 +1,6 @@
 /*
 
-Create two variables that contain letters and numbers
-Print two variables in one line
+Create a variable named laptop and give it your own computer name 
 
 
 */

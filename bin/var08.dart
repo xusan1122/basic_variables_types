@@ -1,6 +1,6 @@
 /*
 
-Create a variable that contains a letter and number
+Create a string  variable that contains  letters and numbers
 
 */
 

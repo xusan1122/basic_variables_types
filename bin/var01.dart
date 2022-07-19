@@ -1,6 +1,7 @@
 /*
 
-Create a variable b and assign it any value of the string
+Create a variable of type int and assign it any value
+
 
 */
 
